@@ -1,7 +1,3 @@
-Sure, here is a simple and well-structured README for your weather application:
-
----
-
 # Weathercef
 
 Weathercef is a simple and elegant weather application that allows users to search for the current weather conditions in any city. The app displays temperature, weather conditions, cloud coverage, humidity, and wind speed, along with an appropriate icon and background image based on the weather.
